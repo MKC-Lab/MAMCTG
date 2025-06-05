@@ -6,8 +6,8 @@
 ## 目录结构
 - `main.py`：主程序入口
 - `eval.py`：评价程序
-- `demo.py`：演示程序
-- `ablation.py`：对比程序，可进行单次生好吃呢个
+- `demo.py`：演示程序，可进行单次生成
+- `ablation.py`：对比程序
 - `process_data.py` `process_data_to_model.py`：数据格式转换工具
 - `commands/`：命令，可下载模型权重，可运行主程序
 
